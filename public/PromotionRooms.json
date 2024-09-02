@@ -1,0 +1,135 @@
+[
+  {
+    "id": 101,
+    "roomName": "Small Room",
+    "roomType": "Luxury",
+    "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/roomViewCard.jpg?updatedAt=1701594932951",
+    "price": 300,
+    "saleTag": "Special Offer",
+    "numberOfGuests":[
+      
+    ] ,
+    "breakfastAvailable": "Not included",
+    "description": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+    "fullDatails":"Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur.Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque pena",
+    "reviews": [
+      {
+        "id": 1,
+        "username": "Guest123",
+        "rating": 4.5,
+        "comment": "Great room with excellent amenities."
+      }
+    ],
+    "qnt": 5
+  },
+
+  {
+    "id": 201,
+    "roomName": "Family Suite",
+    "roomType": "Luxury",
+    "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/DoubleRoomCard.jpg?updatedAt=1701594933000",
+    "price": 350,
+    "saleTag": "Special Offer",
+    "numberOfGuests": "4 person",
+    "breakfastAvailable": "Not included",
+    "description": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+    "fullDatails":"Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur.Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque pena",
+    "reviews": [
+      {
+        "id": 1,
+        "username": "Guest123",
+        "rating": 4.5,
+        "comment": "Great room with excellent amenities."
+      }
+    ],
+    "qnt": 10
+  },
+
+  {
+    "id": 301,
+    "roomName": "Garden View",
+    "roomType": "Luxury",
+    "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/roomViewCard.jpg?updatedAt=1701594932951 ",
+    "price": 450,
+    "saleTag": "Special Offer",
+    "numberOfGuests": "4 person",
+    "breakfastAvailable": "Not included",
+    "description": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+    "fullDatails":"Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur.Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque pena",
+    "reviews": [
+      {
+        "id": 1,
+        "username": "Guest123",
+        "rating": 4.5,
+        "comment": "Great room with excellent amenities."
+      }
+    ],
+    "qnt": 10
+  },
+
+  {
+    "id": 401,
+    "roomName": "Apartment",
+    "roomType": "Luxury",
+    "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/luxryCard.jpg?updatedAt=1701594932868 ",
+    "price": 500,
+    "saleTag": "Special Offer",
+    "numberOfGuests": "4 person",
+    "breakfastAvailable": "Not included",
+    "description": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+    "fullDatails":"Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur.Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque pena",
+    "reviews": [
+      {
+        "id": 1,
+        "username": "Guest123",
+        "rating": 4.5,
+        "comment": "Great room with excellent amenities."
+      }
+    ],
+    "qnt": 10
+  },
+
+  {
+    "id": 501,
+    "roomName": "Double Room",
+    "roomType": "Luxury",
+    "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/familyCard.jpg?updatedAt=1701594932814",
+    "price": 550,
+    "saleTag": "Special Offer",
+    "numberOfGuests": "4 - 6 person",
+    "breakfastAvailable": "Not included",
+    "description": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+    "fullDatails":"Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur.Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque pena",
+    "reviews": [
+      {
+        "id": 1,
+        "username": "Guest123",
+        "rating": 4.5,
+        "comment": "Great room with excellent amenities."
+      }
+    ],
+    "qnt": 10
+  },
+
+  {
+    "id": 601,
+    "roomName": "Luxury Suite",
+    "roomType": "Luxury",
+    "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/appartmentCard.jpg?updatedAt=1701594932611",
+    "price": 650,
+    "saleTag": "Special Offer",
+    "numberOfGuests": "4 - 6 person",
+    "breakfastAvailable": "Not included",
+    "description": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+    "fullDatails":"Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur.Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque pena",
+    "reviews": [
+      {
+        "id": 1,
+        "username": "Guest123",
+        "rating": 4.5,
+        "comment": "Great room with excellent amenities."
+      }
+    ],
+    "qnt": 10
+  }
+]

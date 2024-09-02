@@ -1,0 +1,170 @@
+/* .fontFamilyTitle {
+  
+  font-family: 'Gilda Display', serif;
+}
+.fontFamily {
+  
+} */
+/* html {
+  
+} */
+.body{
+  overflow: hidden;
+}
+
+.App {
+  scroll-behavior: smooth;
+  /* font-family: 'Roboto Serif', serif;/ */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  color: #5c5c5c;
+
+}
+
+
+/* Default font */
+.body-en-title {
+  font-family: 'Gilda Display', serif;
+}
+
+.body-en {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Arabic font */
+.body-ar {
+  /* font-family: 'Amiri', serif; */
+  font-family: "Tajawal", sans-serif;
+  /* font-weight: 400; */
+}
+
+
+.slideIn {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100vh;
+background: #0f0f0f;
+transform-origin: bottom;
+z-index: 1;
+}
+
+.slideOut {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100vh;
+background: #0f0f0f;
+transform-origin: top;
+z-index: 1 ;
+}
+
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #BE9874 !important;
+  text-shadow: 0 0 0.25px currentcolor;
+}
+
+.ant-tabs-ink-bar {
+  position: absolute;
+  background: #BE9874 !important;
+  pointer-events: none;
+}
+
+.ant-btn-primary:hover {
+  background: none !important;
+  color: #0f0f0f !important;
+}
+.ant-btn-primary {
+  color: none;
+  background: #BE9874   /*check modal button  */
+}
+
+:root {
+  --swiper-theme-color: #BE9874 !important; 
+}
+
+.dark .ant-select-selector {
+  background-color: #24303F !important;
+  /* background-color: #1a1616 !important; */
+  border: 1px solid #2E3A47 !important;
+  transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+}
+.ant-select-selector:hover {
+  border: 1px solid #2E3A47 !important;
+  
+}
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #BE9874;
+  border-color: #E2E8F0;
+}
+
+.ant-tabs .ant-tabs-tab-btn{
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  color: #24303F;
+  
+}
+.ant-tabs-tab+.ant-tabs-tab {
+ margin: 0 !important;
+}
+.ant-tabs-nav .ant-tabs-nav-list {
+  column-gap: 32px !important;
+}
+.selector{
+    background-color: transparent !important;
+    border: none !important;
+    color:  white !important;
+    transition: all 0.2s 
+}
+
+
+.react-datepicker__header {
+  background-color:#8d643e !important;
+  
+}
+
+.react-datepicker__month-container {
+  float: left;
+  background-color: #8d643e !important;
+  
+  
+}
+
+/* .react-datepicker-popper {
+  z-index: 9999;
+} */
+#picker{
+  z-index: 9999;
+}
+
+.rdrCalendarWrapper{
+  background-color: #0f0f0f !important;
+
+}
+.rdrDayNumber span{
+  color: white !important;
+}
+
+/* .rdrDateDisplayItemActive  {
+  color: #BE9874 !important;
+} */
+.rdrMonthAndYearPickers select  {
+  color: #BE9874 !important;
+  /* background-color: wheat !important; */
+}
+
+.rdrDayDisabled span {
+  color: #BE9874 !important;
+  background-color: #0f0f0f !important;
+}
+.rdrDayDisabled  {
+  background-color: #0f0f0f !important;
+}
+.rdrDateDisplayWrapper{
+  background: #000 !important;
+}
+

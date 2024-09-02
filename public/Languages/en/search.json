@@ -1,0 +1,29 @@
+{
+    "selectDates": "Select Dates",
+  "GUESTS":"GUESTS",
+  "night":"Night",
+  "bookNow":"Book Now",
+  "sqm":"sqm",
+  "adult":"Adult",
+  "children":"Children",
+  "child":"Child",
+  "age":"Age",
+  "CHECK IN": "CHECK IN",
+  "CHECK OUT": "CHECK OUT",
+  "Check": "Check",
+  "Availability":"Availability",
+  "reset":"Reset",
+  "room": "Room",
+  "allCategories": "All Categories",
+  "sortByPrice": "Sort By price",
+  "highPrice": "High Price",
+  "lowPrice": "Low Price",
+  "search": "Search",
+  "ROOM SIZE": "ROOM SIZE",
+  "SMALLER ROOM": "SMALLER ROOM",
+  "LARGER ROOM": "LARGER ROOM"
+
+
+
+
+}

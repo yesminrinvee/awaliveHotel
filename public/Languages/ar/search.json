@@ -1,0 +1,28 @@
+{
+    "selectDates":"اختر التواريخ",
+    "GUESTS":"الضيوف",
+  "night":"ليلة",
+  "bookNow":"احجز الآن",
+  "sqm":"متر مربع",
+  "adult":"بالغ",
+  "children":"أطفال",
+  "child":"طفل",
+  "age":"العمر",
+  "CHECK IN": "الدخول ",
+  "CHECK OUT": "المغادرة ",
+  "Check": "بحث ",
+  "Availability":"",
+  "reset":"إعادة تعيين",
+  "room": "غرفة",
+  "allCategories": "جميع الفئات",
+  "sortByPrice": "ترتيب حسب السعر",
+  "highPrice": "سعر مرتفع",
+  "lowPrice": "سعر منخفض",
+  "search": "بحث",
+  "ROOM SIZE": "مساحة الغرفة",
+  "SMALLER ROOM": "غرفة أصغر",
+  "LARGER ROOM": "غرفة أكبر"
+
+
+
+}

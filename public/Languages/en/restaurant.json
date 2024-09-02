@@ -1,0 +1,36 @@
+{
+  "Book A Table": "Book A Table",
+  "SEARCH": "SEARCH",
+  "DETAILS": "DETAILS",
+  "CONFIRM": "CONFIRM",
+  "Roof Top": "Roof Top",
+  "Hotel Restaurant":"Hotel Restaurant",
+  "Guest": "Guest",
+  "TIME":"TIME",
+  "Insert your Information": "Insert your Information",
+  "Date":"Date",
+  "Name":"Name",
+  "Phone":"Phone",
+  "Email":"Email",
+  "Message":"Message",
+  "Checkout":"Checkout",
+  "tableBookSuccessMessage": "Thank you for your Reservation! You will receive email with confirmation.",
+  "Experience Elegance and Comfort":"Experience Elegance and Comfort",
+  "Luxurious Suites":"Luxurious Suites",
+  "Service": "Service",
+  "Exquisite Restaurants Await You": "Exquisite Restaurants Await You",
+
+
+    "rooms": {
+        "label": "Rooms"
+      },
+      "suites": {
+        "label": "Suites"
+      },
+      "h24": {
+        "label": "H/24"
+      },
+      "restaurant": {
+        "label": "Restaurant"
+      }
+}

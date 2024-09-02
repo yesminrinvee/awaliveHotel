@@ -1,0 +1,169 @@
+{
+  "Terms Conditions": "Terms Conditions",
+  "Payment options": "Payment options",
+  "Add your Review": "Add your Review",
+  "My Account": "My Account",
+  "LOG IN": "LOG IN",
+  "BOOK NOW": "BOOK NOW",
+  "Awalive Hotel": "Awaliv Hotel",
+  "home": "Home",
+  "about": "Facilities & Services",
+  "Banquet & Meeting":"Banquets & Meetings",
+  "test1":"t1",
+  "test2":"t2",
+  "fullaccess":"PwD comprehensive access",
+  "search": "Rooms & Suites",
+  "roomSearch": "Room Search",
+  "Restaurant & Cafe":"Restaurants & Cafés",
+  "roomRates": "Room Rate",
+  "promotions": "Promotions",
+  "restaurants": "Restaurants & Cafés",
+  "bookTable": "Book Table",
+  "Dashboard":"Dashboard",
+  "menu": "Menu",
+  "contact": "Contact",
+  "myBookings": "My Bookings",
+  "Close": "Close",
+
+  "Luxury Hotel & Best Resort": "Luxury hotel rooms & suites",
+  "enjoyALuxuryExperience": "ENJOY A LUXURY",
+  "EXPERIENCE": "EXPERIENCE",
+  "Best Luxury Room": "Your Happiness Is Our",
+  "EXPERIENCE2": "Hospitality",
+  "roomsAndSuits": "Rooms & Suites",
+
+  "headerSemiTitleTwo": "Sky-High Dining",
+  "titleSecondImage": "Panoramic Views at",
+  "subTitleHeroSecond": "Revolving Sky Restaurant",
+  "heroButton": "Discover Rooms & Suites",
+
+  "hotelinTaif": "Welcome to the foremost resort in the Kingdom of Saudi Arabia.And we are pleased to welcome you to be our guests in Awaliv International Hotel, since it represents the epitome of hospitality the city of roses.",
+  "poolAndGym": "Besides it is remarked by its spectacular design, along with the latest innovations and the diverse models provided in its housing units.",
+  "restaurantWithAView": "In this regard, we consider providing optimum services for our guests by all our friendly and helpful employee is to be one of our main objectives.",
+  "peacefulHotelStay": "Thus, we would like to take this opportunity to welcome you warmly, and we are sure that you will find the perfect place to enjoy all our services.",
+  "hotelRelaxSubTitle": "Unwind at Awaliv International",
+  "hotelRelaxTitle": "Where Comfort Meets Splendor",
+  "titleManager": "Hotel Manager",
+  "Relax in our": "Where Hospitality",
+  "Hotel Resort": "Is Our Finest Tradition",
+
+  "guest": "Guest(s)",
+  "SAR": "SAR",
+  "from": "From",
+
+  "summerOffers": "BEST SUMMER OFFERS",
+  "Check The": "Check The",
+  "Promotions": "Promotions",
+  "getawayDescription": "Exclusive Summer Getaway at Awaliv International Hotel - Indulge in Luxury, Comfort, and Scenic Views of Taif",
+  "One week":"One week",
+  "Small Sea Room":"Small Sea Room",
+  "Two weeks": "Two weeks",
+  "Family Suite": "Family Suite",
+  "One month" :  "One Month",
+  "Apartments" : "Apartments",
+  "SR":"SR",
+
+
+  "OUR ROOM PRICES" : "OUR ROOM PRICES",
+  "The Best Prices" : "The Best Prices",
+
+  "singleRoom": {
+    "title": "Single Room",
+    "price": "Night",
+    
+        "amenities one":"Comfortable single bed",
+        "amenities two":"High-speed Wi-Fi access",
+       "amenities tree":"Flat-screen TV with satellite channels",
+       "amenities four":"Daily housekeeping",
+       "amenities five":"Access to fitness center and pool",
+        "amenities six":"Private bathroom with shower",
+      "amenities seven":"Personal workspace",
+  
+    "callToAction": "More Info"
+  },
+  "deluxeSingleRoom": {
+    "title": "Deluxe Single Room",
+    "price": "Night",
+    
+     "amenities one":"Ultra-comfortable queen-size bed",
+     "amenities two":"Elegant decor with modern amenities",
+     "amenities tree":"Stunning city views",
+     "amenities four":"Complimentary high-speed Wi-Fi",
+     "amenities five":"24-hour room service",
+     "amenities six":"En-suite bathroom with luxury toiletries",
+     "amenities seven":"Coffee and tea making facilities",
+    
+    "callToAction": "Discover More"
+  },
+  "apartment": {
+    "title": "Luxury Apartment",
+    "price": " Night",
+        "amenities one":"Spacious living area with modern furniture",
+        "amenities two":"Fully equipped kitchen with dining area",
+       "amenities tree":"Large windows with panoramic city views",
+       "amenities four":"Complimentary high-speed Wi-Fi",
+       "amenities five":"Two ultra-comfortable bedrooms",
+        "amenities six":"Two luxurious bathrooms with premium toiletries",
+      "amenities seven":"Access to exclusive gym and swimming pool",
+    "callToAction": "Explore More"
+  },
+
+  "discover": "HOTEL FACILITIES",
+  "The Structure": "Facilities & Services",
+  "discoverTitle": "Discover Luxury & Comfort",
+  "discoverSubtitle": "Our staff makes every effort to achieve your desires and aspirations. by providing all the entertainment and activities that will guarantee you a wonderful stay and a unique experience.",
+  "rooms": {
+    "label": "Units"
+  },
+  "suites": {
+    "label": "Health Club"
+  },
+  "h24": {
+    "label": "Cafés"
+  },
+  "restaurant": {
+    "label": "Restaurants"
+  },
+
+  "roomService": {
+    "label": "In-Room Dining"
+  },
+  "breakfastIncluded": {
+    "label": "GYM & SPA"
+  },
+  "laundryIroning": {
+    "label": "Housekeeping &Laundry"
+  },
+
+  "keyFeatures": {
+    "smartKey": {
+      "title": "Smart Key",
+      "description": "Experience seamless access with our state-of-the-art smart key system, ensuring security and convenience."
+    },
+    "luggageStorage": {
+      "title": "Store Luggage",
+      "description": "Safely store your belongings with our secure luggage service, giving you the freedom to explore."
+    },
+    "roomService": {
+      "title": "Room Service",
+      "description": "Indulge in the comfort of your room with our 24/7 room service, offering a variety of gourmet options."
+    },
+    "disinfection": {
+      "title": "Disinfection",
+      "description": "Your safety is our priority. Enjoy peace of mind with our enhanced disinfection protocols."
+    }
+  },
+
+  "exploreCity": "EXPLORE THE HEART OF THE CITY",
+  "primeLocationTitle": "Prime Location & Convenience",
+  "primeLocationDescription": "Discover the charm of the city from our prime location. Awaliv International hotel offers easy access to vibrant shopping, dining, and cultural landmarks. Immerse yourself in the local scene while enjoying our world-class amenities.",
+  "paymentOptions": "DIVERSE PAYMENT OPTIONS:",
+  "exclusiveOffer": {
+    "label": "Up to",
+    "discount": "50% OFF",
+    "description": "on Selected Luxury Rooms"
+  },
+  "visualJourney": "A Visual Journey Through Our Hotel",
+  "discoverSpaces": "Discover Our Spaces",
+  "galleryDescription": "Explore the elegance and luxury of our hotel through this curated gallery. Each image captures the essence of our unique spaces, designed for comfort and sophistication. Experience the beauty and tranquility that await you at every turn."
+}

@@ -1,0 +1,54 @@
+{
+  "app_title": "Title", 
+  "language": "Language",
+  "welcome_message": "Welcome",
+  "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+  "contact_title": "Contact",
+  "contact_Key": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada risus id orci sodales.",
+  "contact_wait": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada risus id orci sodales.",
+  "contact_lag": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada risus id orci sodales.",
+  "contact_ser": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada risus id orci sodales.",
+  "hotel_location": "HOTEL LOCATION",
+  "hotel_st": "Main Street 56 New York",
+  "hotel_ph": "Ph. +1 274 457 375",
+  "hotel_em": "info@hotel.com",
+
+
+  "About_katrin_img": "https://i.ibb.co/6B9yCwG/katrin-Slider.jpg",
+    "About_katrin_name": "Ketrin Wilson",
+    "About_katrin_position": "Hotel Manager",
+    "About_katrin_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reprehenderit, quam reiciendis soluta saepe nihil itaque tempora ipsa voluptatibus ipsam odit? Temporibus consectetur explicabo atque odit eius officia aliquam quia.",
+    "About_adam_img":"https://i.ibb.co/9H85KjR/adam-Slider.jpg",
+    "About_adam_name": "Ketrin Wilson",
+    "About_adam_position": "Hotel Manager",
+    "About_adam_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reprehenderit, quam reiciendis soluta saepe nihil itaque tempora ipsa voluptatibus ipsam odit? Temporibus consectetur explicabo atque odit eius officia aliquam quia.",
+    "About_willson_img":"https://i.ibb.co/6wptf6L/lws-Slider.jpg",
+    "About_willson_name": "Benzima Wilson",
+    "About_willson_position": "Hotel Manager",
+    "About_willson_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reprehenderit, quam reiciendis soluta saepe nihil itaque tempora ipsa voluptatibus ipsam odit? Temporibus consectetur explicabo atque odit eius officia aliquam quia.",
+
+    
+        "best_price": {
+          "hotel_facilities": "HOTEL FACILITIES",
+          "the_structure": "The Structure",
+          "structure_description": "Quisque sollicitudin, nunc sit amet ullamcorper lobortis, lorem ante vehicula felis, non elementum dui magna nec leo. Quisque et sapien metus. Fusce sodales mauris a ligula aliquet tincidunt. Sed congue enim at tellus ullamcorper commodo quis eget dui.",
+          "room_service": "Room Service",
+          "breakfast_included": "Breakfast Included",
+          "laundry_ironing": "Laundry & Ironing",
+          "customer_testimonial": "Cras consectetur placerat nisl, ullamcorper feugiat est aliquet eu. Quisque in dolor euismod, interdum felis mattis, dignissim velit. Vestibulum ultricies euismod arcu tincidunt pellentesque.",
+          "customer_name": "Abby Prince",
+          "customer_position": "Hotel Customer",
+          "goal_statement1": "Our Goal is your ",
+          "goal_statement2": "Relaxation & Safety",
+          "safety_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec lobortis diam. Pellentesque nec enim ipsum. Fusce ex nisi, efficitur vel odio eu, egestas mattis.",
+          "contact_us": "Contact us",
+          "make_the_best": "We make the best",
+          "for_our_guests": "for all our Guests",
+          "come_visit_our": "Come to visit our",
+          "sea_hotel": "Sea Hotel",
+          "learn_more": "Learn More",
+          "book_now": "BOOK NOW"
+        }
+      
+}

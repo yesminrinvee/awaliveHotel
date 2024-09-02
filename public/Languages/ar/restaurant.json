@@ -1,0 +1,30 @@
+{
+  "Book A Table": "احجز طاولة",
+  "SEARCH": "يبحث",
+  "DETAILS": "تفاصيل",
+  "CONFIRM": "يتأكد",
+  "Roof Top": "سقف أعلى",
+  "Hotel Restaurant":"مطعم الفندق",
+  "Guest":"ضيف",
+  "TIME":"وقت",
+  "Insert your Information":"أدخل معلوماتك",
+  "Date":"تاريخ",
+  "Name":"اسم",
+  "Phone":"هاتف",
+  "Email":"بريد إلكتروني",
+  "Message":"رسالة",
+  "Checkout":"الدفع",
+  "tableBookSuccessMessage":"شكرا لك على الحجز! سوف تتلقى البريد الإلكتروني مع التأكيد.",
+    "rooms": {
+        "label": "غرف"
+      },
+      "suites": {
+        "label": "أجنحة"
+      },
+      "h24": {
+        "label": "س/24"
+      },
+      "restaurant": {
+        "label": "مطعم"
+      }
+}

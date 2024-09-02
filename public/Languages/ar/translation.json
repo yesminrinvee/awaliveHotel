@@ -1,0 +1,57 @@
+{
+    "app_title": "عنوان",
+    "language": "اللغة",
+    "welcome_message": "اهلا بكم",
+    "days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو",
+
+    
+    "contact_title": "تلامس",
+    "contact_Key": "العميل مهم جدًا، العميل سيتبعه العميل. وتوقع أعضاء المستشفى أن يضحكوا على ذلك.",
+    "contact_wait": "العميل مهم جدًا، العميل سيتبعه العميل. وتوقع أعضاء المستشفى أن يضحكوا على ذلك.",
+    "contact_lag": "العميل مهم جدًا، العميل سيتبعه العميل. وتوقع أعضاء المستشفى أن يضحكوا على ذلك.",
+    "contact_ser": "العميل مهم جدًا، العميل سيتبعه العميل. وتوقع أعضاء المستشفى أن يضحكوا على ذلك.",
+    "hotel_location":"موقع الفندق",
+    "hotel_st": "الشارع الرئيسي 56 نيويورك",
+    "hotel_ph": "هاتف: +1 274 457 375",
+    "hotel_em": "info@hotel.com",
+
+    "About_katrin_img": "https://i.ibb.co/6B9yCwG/katrin-Slider.jpg",
+    "About_katrin_name": "كترين ويلسون",
+    "About_katrin_position": "مدير الفندق",
+    "About_katrin_details": "لوريم إيبسوم دولور سيت آميت، كونسيكتيتور أديبيسيبيسينغ إليت. يوم ريبريهينديت، كوام ريسينديس سولوتا سيبي نيهيل إيتاكوا تيمبورا إبسا فولبتاتيبوس إيبسام أوديت؟ تيمبوريبوس كونسيكتيتور إكسبليكابو آتكوي أوديت إيوس أوفيسيا أليكوام كويا.",
+    "About_adam_img":"https://i.ibb.co/9H85KjR/adam-Slider.jpg",
+    "About_adam_name": "كترين ويلسون",
+    "About_adam_position": "مدير الفندق",
+    "About_adam_details": "لوريم إيبسوم دولور سيت آميت، كونسيكتيتور أديبيسيبيسينغ إليت. يوم ريبريهينديت، كوام ريسينديس سولوتا سيبي نيهيل إيتاكوا تيمبورا إبسا فولبتاتيبوس إيبسام أوديت؟ تيمبوريبوس كونسيكتيتور إكسبليكابو آتكوي أوديت إيوس أوفيسيا أليكوام كويا.",
+    "About_willson_img":"https://i.ibb.co/6wptf6L/lws-Slider.jpg",
+    "About_willson_name": "بنزيما ويلسون",
+    "About_willson_position": "مدير الفندق",
+    "About_willson_details": "لوريم إيبسوم دولور سيت آميت، كونسيكتيتور أديبيسيبيسينغ إليت. يوم ريبريهينديت، كوام ريسينديس سولوتا سيبي نيهيل إيتاكوا تيمبورا إبسا فولبتاتيبوس إيبسام أوديت؟ تيمبوريبوس كونسيكتيتور إكسبليكابو آتكوي أوديت إيوس أوفيسيا أليكوام كويا.",
+
+    "best_price": {
+        "hotel_facilities": "مرافق الفندق",
+        "the_structure": "الهيكل",
+        "structure_description": "طلب النصائح ، الجلوس الآن على حد سواء على الحد الأقصى للراحة ، قبل السيارة هيئة التصنيع العسكري ، قبل العناصر هيئة التصنيع العسكري العظيمة إلى حد كبير في حاجة إلى الأسد. يجب أن نعترف أن النحل ، الحكمة الإلهية ، هيئة التصنيع العسكري. Fusce sodales mauris a ligula aliquet tincidunt. والذي يخدم التواصل بينهم وبين التصدي للعسكرية تكمن في إخبار الآخرين بالراحة والراحة عند الحاجة إلى الدعاية.",
+        "room_service": "خدمة الغرف",
+        "breakfast_included": "وجبة الإفطار متضمنة",
+        "laundry_ironing": "خدمة الغسيل والكي",
+        "customer_testimonial": "Cras consectetur placerat nisl, ullamcorper feugiat est aliquet eu. Quisque in dolor euismod, interdum felis mattis, dignissim velit. Vestibulum ultricies euismod arcu tincidunt pellentesque.",
+        "customer_name": "أبي برنس",
+        "customer_position": "زبون في الفندق",
+        "goal_statement1": "هدفنا هو",
+        "goal_statement2": "استرخاؤك وسلامتك",
+        "safety_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec lobortis diam. Pellentesque nec enim ipsum. Fusce ex nisi, efficitur vel odio eu, egestas mattis.",
+        "contact_us": "اتصل بنا",
+        "make_the_best": "نحن نصنع الأفضل",
+        "for_our_guests": "لجميع ضيوفنا",
+        "come_visit_our": "تعالوا لزيارة",
+        "sea_hotel": "فندق البحر",
+        "learn_more": "اعرف أكثر",
+        "book_now": "احجز الآن"
+      }
+
+
+
+    
+
+  }

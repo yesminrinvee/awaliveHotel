@@ -1,0 +1,28 @@
+{
+
+    "contact": {
+        "contactUs": "اتصل بنا",
+        "dropALine": "البريد الإلكتروني",
+        "reservation": "الحجوزات",
+        "phone": "(+٩٦٦) ١٢٧٣٧٥٥٥٥",
+        "AltPhone": "info@awalivhotels.com",
+        "whatsapp": "(+٩٦٦) ٥٤٧٣٧٥٥٥٠"
+        
+      },
+
+
+    
+
+    "phoneSupport": "تواصل معنا",
+    "phoneSupportSubTitle": " ",
+    "phoneSupportPhoneNumber": "+ 01 345 647 745",
+    "connectWithUs": "التواصل معنا",
+    "connectWithUsSubTitle": "وسائل التواصل الاجتماعي",
+    "socialMedia": ["فيسبوك", "إنستجرام", "يوتيوب", "تويتر"],
+    "newsletter": "النشرة الإخبارية",
+    "newsletterSubTitle": "اشترك للحصول على عروض خاصة",
+    "newsletterPlaceholder": "أدخل بريدك الإلكتروني",
+    "subscribeButton": "اشتراك",
+    
+    "socialIcons": ["يوتيوب", "بنتيريست", "إنستجرام"]
+}

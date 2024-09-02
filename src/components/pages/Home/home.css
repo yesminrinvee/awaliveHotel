@@ -1,0 +1,54 @@
+/* Base styles for the hero text */
+.hero-text {
+  font-family: "Gilda Display, serif";
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  padding: 0rem; /* Example padding */
+}
+
+/* English-specific styles */
+.hero-text.english {
+  font-size: 1.5rem; /* Example base size for English */
+  /* font-weight: 600; */
+}
+
+/* Arabic-specific styles */
+.hero-text.arabic {
+  font-size: 2rem; /* Example base size for Arabic */
+  font-weight: 600;
+}
+
+/* Responsive font sizes for different screen widths */
+@media (min-width: 768px) {
+  .hero-text.english {
+    font-size: 3rem; /* Larger size for wider screens */
+  }
+
+  .hero-text.arabic {
+    font-size: 4rem; /* Adjust if necessary for design consistency */
+    font-weight: 600;
+  }
+}
+
+/* Apply max-width to contain the text */
+.hero-text {
+  /* max-width: 60%; Or whatever max-width suits your design */
+  margin: 0 auto; /* This centers the div if it's a block element */
+}
+
+.carousel {
+  position: relative; /* This ensures that absolutely positioned children are positioned relative to this container */
+  width: 100%; /* Full width */
+  height: 100vh; /* Adjust the height as needed, here it's set to full viewport height */
+  overflow: hidden; /* Prevent any overflow from absolutely positioned images */
+}
+
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Cover the area without losing aspect ratio */
+}

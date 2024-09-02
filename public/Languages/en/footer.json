@@ -1,0 +1,26 @@
+{
+
+    "contact": {
+        "contactUs": "Contact Us",
+        "dropALine": "E-mail",
+        "reservation": "Reservation",
+        "phone": "(+966) 12 7375555",
+        "AltPhone": "info@awalivhotels.com",
+        "whatsapp": "(+966) 547375550"
+        
+      },
+
+
+    "phoneSupport": "Contact Us",
+    "phoneSupportSubTitle": "  ",
+    "phoneSupportPhoneNumber": "+ 01 345 647 745",
+    "connectWithUs": "Connect With Us",
+    "connectWithUsSubTitle": "SOCIAL MEDIA CHANNELS",
+    "socialMedia": ["Facebook", "Instagram", "Youtube", "Twitter"],
+    "newsletter": "Newsletter",
+    "newsletterSubTitle": "SIGN UP FOR SPECIAL OFFERS",
+    "newsletterPlaceholder": "Insert your email",
+    "subscribeButton": "SUBSCRIBE",
+    
+    "socialIcons": ["Youtube", "Pinterest", "Instagram"]
+}

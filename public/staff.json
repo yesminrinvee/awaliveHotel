@@ -1,0 +1,26 @@
+ [
+    {   
+        "id": 1,
+        "image": "https://i.ibb.co/9H85KjR/adam-Slider.jpg",
+        "name": "Ketrin Wilson",
+        "position": "Hotel Manger",
+        "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum reprehenderit, quam reiciendis soluta saepe nihil itaque tempora ipsa voluptatibus ipsam odit? Temporibus consectetur explicabo atque odit eius officia aliquam quia."
+
+    },
+    {   
+        "id": 2,
+        "image": "https://i.ibb.co/6B9yCwG/katrin-Slider.jpg",
+        "name": "Ketrin Wilson",
+        "position": "Hotel Manger",
+        "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum reprehenderit, quam reiciendis soluta saepe nihil itaque tempora ipsa voluptatibus ipsam odit? Temporibus consectetur explicabo atque odit eius officia aliquam quia."
+
+    },
+    {   
+        "id": 2,
+        "image": "https://i.ibb.co/6wptf6L/lws-Slider.jpg",
+        "name": "Benzima Wilson",
+        "position": "Hotel Manger",
+        "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum reprehenderit, quam reiciendis soluta saepe nihil itaque tempora ipsa voluptatibus ipsam odit? Temporibus consectetur explicabo atque odit eius officia aliquam quia."
+
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "id": 101,
+        "roomName": {
+          "en": "Small Room",
+          "ar": "غرفة صغيرة"
+        },
+        "roomType": {
+          "en": "Luxury",
+          "ar": "فخمة"
+        },
+        "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/roomViewCard.jpg?updatedAt=1701594932951",
+        "price": 300,
+        "saleTag": {
+          "en": "Special Offer",
+          "ar": "عرض خاص"
+        },
+        "numberOfGuests": [1, 2, 3],
+        "breakfastAvailable": {
+          "en": "Not included",
+          "ar": "غير مشمول"
+        },
+        "description": {
+          "en": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+          "ar": "تجربة الفخامة في جناحنا الفسيح من فئة الديلوكس مع إطلالات مذهلة."
+        },
+        "fullDetails": {
+          "en": "Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur. Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "ar": "موربي ماليسوادا إمبيردييت إمبيردييت. فوسي إن نيكويه ا ماجنا ساجيتيس تينسيدونت سيت اميت فاسيليسيس بوروس. اتيام إن سيمبر اركو، كويس فولوتباتي نيسل. كورابيتور ماكسيموس أورسي ا اكس كورسوس كونسيكتيتور. فوسي او انتي لوكتوس ليغولا أليكام فيستيبولوم. سيد نون اركو سيت اميت نيسل فيستيبولوم بوسويري. فاصلوس لوريم نيسل، بورتيتور ان فولوتبات سيت اميت، كونجوي ماليسوادا نيكوي. أورسي فاريوس ناتوكيه بيناتيبوس ايت ماجنيس ديس بارتورينت مونتيس، ناسكيتور ريديكولوس موس."
+        },
+        "quantity": 5
+      },
+    {
+        "id": 102,
+        "roomName": {
+          "en": "Family Suite",
+          "ar": "جناح الأسرة"
+        },
+        "roomType": {
+          "en": "Luxury",
+          "ar": "فخمة"
+        },
+        "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/DoubleRoomCard.jpg?updatedAt=1701594933000",
+        "price": 340,
+        "saleTag": {
+          "en": "Special Offer",
+          "ar": "عرض خاص"
+        },
+        "numberOfGuests": [1, 2, 3],
+        "breakfastAvailable": {
+          "en": "Not included",
+          "ar": "غير مشمول"
+        },
+        "description": {
+          "en": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+          "ar": "تجربة الفخامة في جناحنا الفسيح من فئة الديلوكس مع إطلالات مذهلة."
+        },
+        "fullDetails": {
+          "en": "Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur. Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "ar": "موربي ماليسوادا إمبيردييت إمبيردييت. فوسي إن نيكويه ا ماجنا ساجيتيس تينسيدونت سيت اميت فاسيليسيس بوروس. اتيام إن سيمبر اركو، كويس فولوتباتي نيسل. كورابيتور ماكسيموس أورسي ا اكس كورسوس كونسيكتيتور. فوسي او انتي لوكتوس ليغولا أليكام فيستيبولوم. سيد نون اركو سيت اميت نيسل فيستيبولوم بوسويري. فاصلوس لوريم نيسل، بورتيتور ان فولوتبات سيت اميت، كونجوي ماليسوادا نيكوي. أورسي فاريوس ناتوكيه بيناتيبوس ايت ماجنيس ديس بارتورينت مونتيس، ناسكيتور ريديكولوس موس."
+        },
+        "quantity": 5
+      },
+    {
+        "id": 103,
+        "roomName": {
+          "en": "Garden View",
+          "ar": "إطلالة على الحديقة"
+        },
+        "roomType": {
+          "en": "Luxury",
+          "ar": "فخمة"
+        },
+        "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/roomViewCard.jpg?updatedAt=1701594932951 ",
+        "price": 340,
+        "saleTag": {
+          "en": "Special Offer",
+          "ar": "عرض خاص"
+        },
+        "numberOfGuests": [1, 2, 3],
+        "breakfastAvailable": {
+          "en": "Not included",
+          "ar": "غير مشمول"
+        },
+        "description": {
+          "en": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+          "ar": "تجربة الفخامة في جناحنا الفسيح من فئة الديلوكس مع إطلالات مذهلة."
+        },
+        "fullDetails": {
+          "en": "Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur. Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "ar": "موربي ماليسوادا إمبيردييت إمبيردييت. فوسي إن نيكويه ا ماجنا ساجيتيس تينسيدونت سيت اميت فاسيليسيس بوروس. اتيام إن سيمبر اركو، كويس فولوتباتي نيسل. كورابيتور ماكسيموس أورسي ا اكس كورسوس كونسيكتيتور. فوسي او انتي لوكتوس ليغولا أليكام فيستيبولوم. سيد نون اركو سيت اميت نيسل فيستيبولوم بوسويري. فاصلوس لوريم نيسل، بورتيتور ان فولوتبات سيت اميت، كونجوي ماليسوادا نيكوي. أورسي فاريوس ناتوكيه بيناتيبوس ايت ماجنيس ديس بارتورينت مونتيس، ناسكيتور ريديكولوس موس."
+        },
+        "quantity": 5
+      },
+    {
+        "id": 104,
+        "roomName": {
+          "en": "Apartment",
+          "ar": "شقة"
+        },
+        "roomType": {
+          "en": "Luxury",
+          "ar": "فخمة"
+        },
+        "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/luxryCard.jpg?updatedAt=1701594932868 ",
+        "price": 340,
+        "saleTag": {
+          "en": "Special Offer",
+          "ar": "عرض خاص"
+        },
+        "numberOfGuests": [1, 2, 3],
+        "breakfastAvailable": {
+          "en": "Not included",
+          "ar": "غير مشمول"
+        },
+        "description": {
+          "en": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+          "ar": "تجربة الفخامة في جناحنا الفسيح من فئة الديلوكس مع إطلالات مذهلة."
+        },
+        "fullDetails": {
+          "en": "Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur. Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "ar": "موربي ماليسوادا إمبيردييت إمبيردييت. فوسي إن نيكويه ا ماجنا ساجيتيس تينسيدونت سيت اميت فاسيليسيس بوروس. اتيام إن سيمبر اركو، كويس فولوتباتي نيسل. كورابيتور ماكسيموس أورسي ا اكس كورسوس كونسيكتيتور. فوسي او انتي لوكتوس ليغولا أليكام فيستيبولوم. سيد نون اركو سيت اميت نيسل فيستيبولوم بوسويري. فاصلوس لوريم نيسل، بورتيتور ان فولوتبات سيت اميت، كونجوي ماليسوادا نيكوي. أورسي فاريوس ناتوكيه بيناتيبوس ايت ماجنيس ديس بارتورينت مونتيس، ناسكيتور ريديكولوس موس."
+        },
+        "quantity": 5
+      },
+    {
+        "id": 105,
+        "roomName": {
+          "en": "Double Room",
+          "ar": "غرفة مزدوجة"
+          
+        },
+        "roomType": {
+          "en": "Luxury",
+          "ar": "فخمة"
+        },
+        "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/familyCard.jpg?updatedAt=1701594932814 ",
+        "price": 640,
+        "saleTag": {
+          "en": "Special Offer",
+          "ar": "عرض خاص"
+        },
+        "numberOfGuests": [1, 2, 3],
+        "breakfastAvailable": {
+          "en": "Not included",
+          "ar": "غير مشمول"
+        },
+        "description": {
+          "en": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+          "ar": "تجربة الفخامة في جناحنا الفسيح من فئة الديلوكس مع إطلالات مذهلة."
+        },
+        "fullDetails": {
+          "en": "Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur. Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "ar": "موربي ماليسوادا إمبيردييت إمبيردييت. فوسي إن نيكويه ا ماجنا ساجيتيس تينسيدونت سيت اميت فاسيليسيس بوروس. اتيام إن سيمبر اركو، كويس فولوتباتي نيسل. كورابيتور ماكسيموس أورسي ا اكس كورسوس كونسيكتيتور. فوسي او انتي لوكتوس ليغولا أليكام فيستيبولوم. سيد نون اركو سيت اميت نيسل فيستيبولوم بوسويري. فاصلوس لوريم نيسل، بورتيتور ان فولوتبات سيت اميت، كونجوي ماليسوادا نيكوي. أورسي فاريوس ناتوكيه بيناتيبوس ايت ماجنيس ديس بارتورينت مونتيس، ناسكيتور ريديكولوس موس."
+        },
+        "quantity": 5
+      },
+    {
+        "id": 105,
+        "roomName": {
+          "en": "Luxury Suite",
+          "ar": "جناح فخم"
+          
+        },
+        "roomType": {
+          "en": "Luxury",
+          "ar": "فخمة"
+        },
+        "roomImage": "https://ik.imagekit.io/appgas2t34/awalive/appartmentCard.jpg?updatedAt=1701594932611 ",
+        "price": 640,
+        "saleTag": {
+          "en": "Special Offer",
+          "ar": "عرض خاص"
+        },
+        "numberOfGuests": [1, 2, 3],
+        "breakfastAvailable": {
+          "en": "Not included",
+          "ar": "غير مشمول"
+        },
+        "description": {
+          "en": "Experience luxury in our spacious Deluxe Suite with stunning views.",
+          "ar": "تجربة الفخامة في جناحنا الفسيح من فئة الديلوكس مع إطلالات مذهلة."
+        },
+        "fullDetails": {
+          "en": "Morbi malesuada imperdiet imperdiet. Fusce in neque a magna sagittis tincidunt sit amet facilisis purus. Etiam in semper arcu, quis vulputate nisl. Curabitur maximus orci a ex cursus consectetur. Fusce eu ante luctus ligula aliquam vestibulum. Sed non arcu sit amet nisl vestibulum posuere. Phasellus lorem nisl, porttitor in volutpat sit amet, congue malesuada neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "ar": "موربي ماليسوادا إمبيردييت إمبيردييت. فوسي إن نيكويه ا ماجنا ساجيتيس تينسيدونت سيت اميت فاسيليسيس بوروس. اتيام إن سيمبر اركو، كويس فولوتباتي نيسل. كورابيتور ماكسيموس أورسي ا اكس كورسوس كونسيكتيتور. فوسي او انتي لوكتوس ليغولا أليكام فيستيبولوم. سيد نون اركو سيت اميت نيسل فيستيبولوم بوسويري. فاصلوس لوريم نيسل، بورتيتور ان فولوتبات سيت اميت، كونجوي ماليسوادا نيكوي. أورسي فاريوس ناتوكيه بيناتيبوس ايت ماجنيس ديس بارتورينت مونتيس، ناسكيتور ريديكولوس موس."
+        },
+        "quantity": 5
+      }
+      
+]

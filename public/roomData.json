@@ -1,0 +1,286 @@
+[
+    {
+      "id": 1,
+      "roomName": "Deluxe Suite",
+      "category": "Suite",
+      "roomSize": "500 sqft",
+      "numberOfGuests": 2,
+      "roomPrice": 200,
+      "description": "Cras malesuada mauris tortor, id tempus mauris blandit sit amet. Morbi a velit efficitur, porttitor metus et, interdum nunc. Phasellus ut elementum diam. Aliquam erat volutpat. Nunc et facilisis elit. Donec consectetur nibh vel gravida aliquet. Suspendisse sit amet lectus tristique, condimentum libero vel, porta justo. Proin sit amet porta nibh. Pellentesque leo lorem, blandit quis hendrerit a, suscipit dapibus nulla. Aenean ut facilisis felis. Cras tincidunt elementum neque, id viverra magna viverra et. Nam tincidunt urna sed urna vehicula fringilla. Curabitur bibendum dictum nunc, ut elementum nibh efficitur gravida. Phasellus luctus scelerisque libero, nec lobortis tortor volutpat at. Nam vitae turpis in est tristique placerat id sed tortor. Vivamus luctus sed nibh ac cursus. Sed vel ligula non risus tempus fermentum.",
+      "image": "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg",
+      "DetailsImage": ["https://i.ibb.co/DVjCHVX/room-View-Card.jpg", "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg", "https://i.ibb.co/SmjRhp9/family-Card.jpg "] ,
+      "RoomService": [
+        {
+          "name": "2 Guest",
+          "Icon": "../src/assets/icon-user-grey.svg"
+        },
+        {
+          "name": "500 SQFT",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "200 / Night",
+          "Icon": "../src/assets/icon-bed-grey.svg"
+        },
+        {
+          "name": "Check Weekly Price",
+          "Icon": "../src/assets/icon-calendar-grey.svg"
+        }
+      ],
+      "RoomLogs": [
+        {
+          "name": "Welcome Drink",
+          "Icon": "../src/assets/welcome-drink.png"
+        },
+        {
+          "name": "Private Bathroom",
+          "Icon": "../src/assets/private-bathroom.png"
+        },
+        {
+          "name": "Swimming Pool",
+          "Icon": "../src/assets/swmming-pool.png"
+        },
+        {
+          "name": "No Smoking",
+          "Icon": "../src/assets/no-smoking.png"
+        }
+      ]
+      
+    },
+    {
+      "id": 2,
+      "roomName": "Standard Room",
+      "category": "Standard",
+      "roomSize": "300 sqft",
+      "numberOfGuests": 2,
+      "roomPrice": 100,
+      "description": "Cras malesuada mauris tortor, id tempus mauris blandit sit amet. Morbi a velit efficitur, porttitor metus et, interdum nunc. Phasellus ut elementum diam. Aliquam erat volutpat. Nunc et facilisis elit. Donec consectetur nibh vel gravida aliquet. Suspendisse sit amet lectus tristique, condimentum libero vel, porta justo. Proin sit amet porta nibh. Pellentesque leo lorem, blandit quis hendrerit a, suscipit dapibus nulla. Aenean ut facilisis felis. Cras tincidunt elementum neque, id viverra magna viverra et. Nam tincidunt urna sed urna vehicula fringilla. Curabitur bibendum dictum nunc, ut elementum nibh efficitur gravida. Phasellus luctus scelerisque libero, nec lobortis tortor volutpat at. Nam vitae turpis in est tristique placerat id sed tortor. Vivamus luctus sed nibh ac cursus. Sed vel ligula non risus tempus fermentum.",
+      "image": "https://i.ibb.co/SmjRhp9/family-Card.jpg",
+      "DetailsImage": ["https://i.ibb.co/DVjCHVX/room-View-Card.jpg", "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg", "https://i.ibb.co/SmjRhp9/family-Card.jpg "],
+      "RoomService": [
+        {
+          "name": "2 Guest",
+          "Icon": "../src/assets/icon-user-grey.svg"
+        },
+        {
+          "name": "300 SQFT",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "100 / Night",
+          "Icon": "../src/assets/icon-bed-grey.svg"
+        },
+        {
+          "name": "Check Weekly Price",
+          "Icon": "../src/assets/icon-calendar-grey.svg"
+        }
+      ] ,
+      "RoomLogs": [
+        {
+          "name": "Welcome Drink",
+          "Icon": "../src/assets/welcome-drink.png"
+        },
+        {
+          "name": "Private Bathroom",
+          "Icon": "../src/assets/private-bathroom.png"
+        },
+        {
+          "name": "Swimming Pool",
+          "Icon": "../src/assets/swmming-pool.png"
+        },
+        {
+          "name": "No Smoking",
+          "Icon": "../src/assets/no-smoking.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "roomName": "Family Suite",
+      "category": "Suite",
+      "roomSize": "700 sqft",
+      "numberOfGuests": 4,
+      "roomPrice": 170,
+      "description": "Cras malesuada mauris tortor, id tempus mauris blandit sit amet. Morbi a velit efficitur, porttitor metus et, interdum nunc. Phasellus ut elementum diam. Aliquam erat volutpat. Nunc et facilisis elit. Donec consectetur nibh vel gravida aliquet. Suspendisse sit amet lectus tristique, condimentum libero vel, porta justo. Proin sit amet porta nibh. Pellentesque leo lorem, blandit quis hendrerit a, suscipit dapibus nulla. Aenean ut facilisis felis. Cras tincidunt elementum neque, id viverra magna viverra et. Nam tincidunt urna sed urna vehicula fringilla. Curabitur bibendum dictum nunc, ut elementum nibh efficitur gravida. Phasellus luctus scelerisque libero, nec lobortis tortor volutpat at. Nam vitae turpis in est tristique placerat id sed tortor. Vivamus luctus sed nibh ac cursus. Sed vel ligula non risus tempus fermentum.",
+      "image": "https://i.ibb.co/LnbnBS3/luxry-Card.jpg ",
+      "DetailsImage": ["https://i.ibb.co/DVjCHVX/room-View-Card.jpg", "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg", "https://i.ibb.co/SmjRhp9/family-Card.jpg "] ,
+      "RoomService": [
+        {
+          "name": "4 Guest",
+          "Icon": "../src/assets/icon-user-grey.svg"
+        },
+        {
+          "name": "700 SQFT",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "170 / Night",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "Check Weekly Price",
+          "Icon": "../src/assets/icon-calendar-grey.svg"
+        }
+      ],
+      "RoomLogs": [
+        {
+          "name": "Welcome Drink",
+          "Icon": "../src/assets/welcome-drink.png"
+        },
+        {
+          "name": "Private Bathroom",
+          "Icon": "../src/assets/private-bathroom.png"
+        },
+        {
+          "name": "Swimming Pool",
+          "Icon": "../src/assets/swmming-pool.png"
+        },
+        {
+          "name": "No Smoking",
+          "Icon": "../src/assets/no-smoking.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "roomName": "Executive Room",
+      "category": "Executive",
+      "roomSize": "400 sqft",
+      "numberOfGuests": 2,
+      "roomPrice": 150,
+      "description": "Cras malesuada mauris tortor, id tempus mauris blandit sit amet. Morbi a velit efficitur, porttitor metus et, interdum nunc. Phasellus ut elementum diam. Aliquam erat volutpat. Nunc et facilisis elit. Donec consectetur nibh vel gravida aliquet. Suspendisse sit amet lectus tristique, condimentum libero vel, porta justo. Proin sit amet porta nibh. Pellentesque leo lorem, blandit quis hendrerit a, suscipit dapibus nulla. Aenean ut facilisis felis. Cras tincidunt elementum neque, id viverra magna viverra et. Nam tincidunt urna sed urna vehicula fringilla. Curabitur bibendum dictum nunc, ut elementum nibh efficitur gravida. Phasellus luctus scelerisque libero, nec lobortis tortor volutpat at. Nam vitae turpis in est tristique placerat id sed tortor. Vivamus luctus sed nibh ac cursus. Sed vel ligula non risus tempus fermentum.",
+      "image": "https://i.ibb.co/DVjCHVX/room-View-Card.jpg ",
+      "DetailsImage": ["https://i.ibb.co/DVjCHVX/room-View-Card.jpg", "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg", "https://i.ibb.co/SmjRhp9/family-Card.jpg "],
+      "RoomService": [
+        {
+          "name": "2 Guest",
+          "Icon": "../src/assets/icon-user-grey.svg"
+        },
+        {
+          "name": "400 SQFT",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "150 / Night",
+          "Icon": "../src/assets/icon-bed-grey.svg"
+        },
+        {
+          "name": "Check Weekly Price",
+          "Icon": "../src/assets/icon-calendar-grey.svg"
+        }
+      ] ,
+      "RoomLogs": [
+        {
+          "name": "Welcome Drink",
+          "Icon": "../src/assets/welcome-drink.png"
+        },
+        {
+          "name": "Private Bathroom",
+          "Icon": "../src/assets/private-bathroom.png"
+        },
+        {
+          "name": "Swimming Pool",
+          "Icon": "../src/assets/swmming-pool.png"
+        },
+        {
+          "name": "No Smoking",
+          "Icon": "../src/assets/no-smoking.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "roomName": "Apartment",
+      "category": "Executive",
+      "roomSize": "700 sqft",
+      "numberOfGuests": 6,
+      "roomPrice": 120,
+      "description": "Cras malesuada mauris tortor, id tempus mauris blandit sit amet. Morbi a velit efficitur, porttitor metus et, interdum nunc. Phasellus ut elementum diam. Aliquam erat volutpat. Nunc et facilisis elit. Donec consectetur nibh vel gravida aliquet. Suspendisse sit amet lectus tristique, condimentum libero vel, porta justo. Proin sit amet porta nibh. Pellentesque leo lorem, blandit quis hendrerit a, suscipit dapibus nulla. Aenean ut facilisis felis. Cras tincidunt elementum neque, id viverra magna viverra et. Nam tincidunt urna sed urna vehicula fringilla. Curabitur bibendum dictum nunc, ut elementum nibh efficitur gravida. Phasellus luctus scelerisque libero, nec lobortis tortor volutpat at. Nam vitae turpis in est tristique placerat id sed tortor. Vivamus luctus sed nibh ac cursus. Sed vel ligula non risus tempus fermentum.",
+      "image": "https://i.ibb.co/FXcj1J3/appartment-Card.jpg  ",
+      "DetailsImage": ["https://i.ibb.co/DVjCHVX/room-View-Card.jpg", "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg", "https://i.ibb.co/SmjRhp9/family-Card.jpg "],
+      "RoomService": [
+        {
+          "name": "4 Guest",
+          "Icon": "../src/assets/icon-user-grey.svg"
+        },
+        {
+          "name": "700 SQFT",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "120 / Night",
+          "Icon": "../src/assets/icon-bed-grey.svg"
+        },
+        {
+          "name": "Check Weekly Price",
+          "Icon": "../src/assets/icon-calendar-grey.svg"
+        }
+      ] ,
+      "RoomLogs": [
+        {
+          "name": "Welcome Drink",
+          "Icon": "../src/assets/welcome-drink.png"
+        },
+        {
+          "name": "Private Bathroom",
+          "Icon": "../src/assets/private-bathroom.png"
+        },
+        {
+          "name": "Swimming Pool",
+          "Icon": "../src/assets/swmming-pool.png"
+        },
+        {
+          "name": "No Smoking",
+          "Icon": "../src/assets/no-smoking.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "roomName": "Small Room",
+      "category": "Suite",
+      "roomSize": "300 sqft",
+      "numberOfGuests": 2,
+      "roomPrice": 70,
+      "description": "Cras malesuada mauris tortor, id tempus mauris blandit sit amet. Morbi a velit efficitur, porttitor metus et, interdum nunc. Phasellus ut elementum diam. Aliquam erat volutpat. Nunc et facilisis elit. Donec consectetur nibh vel gravida aliquet. Suspendisse sit amet lectus tristique, condimentum libero vel, porta justo. Proin sit amet porta nibh. Pellentesque leo lorem, blandit quis hendrerit a, suscipit dapibus nulla. Aenean ut facilisis felis. Cras tincidunt elementum neque, id viverra magna viverra et. Nam tincidunt urna sed urna vehicula fringilla. Curabitur bibendum dictum nunc, ut elementum nibh efficitur gravida. Phasellus luctus scelerisque libero, nec lobortis tortor volutpat at. Nam vitae turpis in est tristique placerat id sed tortor. Vivamus luctus sed nibh ac cursus. Sed vel ligula non risus tempus fermentum. ",
+      "image": "https://i.ibb.co/DVjCHVX/room-View-Card.jpg",
+      "DetailsImage": ["https://i.ibb.co/DVjCHVX/room-View-Card.jpg", "https://i.ibb.co/Qdvk4Mq/Double-Room-Card.jpg", "https://i.ibb.co/SmjRhp9/family-Card.jpg "] ,
+      "RoomService": [
+        {
+          "name": "2 Guest",
+          "Icon": "../src/assets/icon-user-grey.svg"
+        },
+        {
+          "name": "300 SQFT",
+          "Icon": "../src/assets/icon-plan-grey.svg"
+        },
+        {
+          "name": "70 / Night",
+          "Icon": "../src/assets/icon-bed-grey.svg"
+        },
+        {
+          "name": "Check Weekly Price",
+          "Icon": "../src/assets/icon-calendar-grey.svg"
+        }
+      ],
+      "RoomLogs": [
+        {
+          "name": "Welcome Drink",
+          "Icon": "../src/assets/welcome-drink.png"
+        },
+        {
+          "name": "Private Bathroom",
+          "Icon": "../src/assets/private-bathroom.png"
+        },
+        {
+          "name": "Swimming Pool",
+          "Icon": "../src/assets/swmming-pool.png"
+        },
+        {
+          "name": "No Smoking",
+          "Icon": "../src/assets/no-smoking.png"
+        }
+      ]
+    }
+  ]
+  
